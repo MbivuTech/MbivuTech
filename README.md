@@ -1,6 +1,6 @@
 # Welcome to MbivuTech 👋
 
-![MbivuTech Logo](https://mbivu.com/wp-content/uploads/2024/02/cropped-Logo-png-180x180.png)
+![MbivuTech Logo](https://mbivu.com/wp-content/uploads/2024/09/twitter.png)
 
 Mbivu Tech invites you to join us on the journey of redefining technology through the lens of ripe craftsmanship. Together, let's innovate, inspire, and craft a future where technology is not just functional but a work of art.
 
@@ -25,19 +25,19 @@ In addition to our development services, we offer assistance with assignments, e
 
 - **Mobile Apps**: Crafting intuitive and efficient mobile applications tailored to your needs.
   
-  ![Mobile App Development](images/mobile_app.png)
+  ![Mobile App Development](https://images.squarespace-cdn.com/content/v1/5ab8b930a2772cd50e5d979a/1603368285279-5UVV5M3MRCLCXHT6WWAG/umuzi-mobile-app-developers.jpg?format=500w)
 
 - **Desktop Software**: Building robust desktop applications that enhance productivity and user experience.
   
-  ![Desktop Software](images/desktop_software.png)
+  ![Desktop Software](https://miro.medium.com/v2/resize:fit:720/format:webp/1*pQcjR47Cce6ndLbaklflXg.png)
 
 - **Websites**: Designing responsive and engaging websites that reflect your brand's identity.
   
-  ![Website Development](images/website.png)
+  ![Website Development](https://wiki.mozilla.org/images/d/d9/Webdev_code.png)
 
 - **Microcontroller Applications**: Innovating with embedded systems to power IoT and automation projects.
   
-  ![Microcontroller Applications](images/microcontroller.png)
+  ![Microcontroller Applications](https://www.xecor.com/files/uploads/editor/b/101efb9723d74de99beceb4fc905549c.webp)
 
 ### Assignment Help
 
@@ -67,5 +67,5 @@ Whether you're looking to collaborate, innovate, or seek educational support, Mb
 
 ---
 
-© 2024 MbivuTech. All rights reserved.
+© 2025 MbivuTech. All rights reserved.
 
