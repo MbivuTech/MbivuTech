@@ -1,5 +1,5 @@
 # Welcome to MbivuTech 👋
-![MbivuTech Logo](https://mbivu.com/wp-content/uploads/2024/09/twitter.png =150x150)
+[MbivuTech Logo](https://mbivu.com/wp-content/uploads/2024/09/twitter.png =150x150)
 
 Mbivu Tech invites you to join us on the journey of redefining technology through the lens of ripe craftsmanship. Together, let's innovate, inspire, and craft a future where technology is not just functional but a work of art.
 
